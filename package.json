@@ -1,7 +1,6 @@
 {
   "name": "rr-build-a-redux-grocery-list",
   "version": "1.0.0",
-  "description": "",
   "main": "script.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,5 +14,6 @@
   "bugs": {
     "url": "https://github.com/CodWurl/RR-Build-a-Redux-Grocery-List/issues"
   },
-  "homepage": "https://github.com/CodWurl/RR-Build-a-Redux-Grocery-List#readme"
+  "homepage": "https://github.com/CodWurl/RR-Build-a-Redux-Grocery-List#readme",
+  "description": ""
 }
